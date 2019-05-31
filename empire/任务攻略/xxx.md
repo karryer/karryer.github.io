@@ -5,11 +5,11 @@
 
 <a href="http://helper/monster/49183"><img src="/empire/image/monster/5001.png" width="100" height="100" style="vertical-align: middle;"/></a> <span>野豬人</span><br/>
 
-<a href="http://helper/monster/51341"><img src="/empire/image/monster/5000.png" width="40" height="40" style="vertical-align: middle;"/></a> <span>寒冰龍（分身）</span><br/>
+<a href="http://helper/monster/51341"><img src="/empire/image/monster/5166.png" width="100" height="100" style="vertical-align: middle;"/></a> <span>寒冰龍（分身）</span><br/>
 
-<a href="http://helper/monster/51352"><img src="/empire/image/monster/5000.png" width="40" height="40" style="vertical-align: middle;"/></a> <span>土屬雷獸</span><br/>
+<a href="http://helper/monster/51352"><img src="/empire/image/monster/5616.png" width="100" height="100" style="vertical-align: middle;"/></a> <span>土屬雷獸</span><br/>
 
-<a href="http://helper/npc/9989636"><img src="/empire/image/monster/5000.png" width="40" height="40" style="vertical-align: middle;"/></a> <span>王教头</span><br/>
+<a href="http://helper/npc/9989636"><img src="/empire/image/monster/0.png" width="100" height="100" style="vertical-align: middle;"/></a> <span>王教头</span><br/>
 
 <a href="http://helper/task/54165"><img src="/empire/image/task/mark.png" width="30" height="30" style="vertical-align: middle;"/></a> <span>再找张大力</span><br/>
 
