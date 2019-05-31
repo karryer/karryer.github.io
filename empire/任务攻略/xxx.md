@@ -9,7 +9,7 @@
 
 <a href="http://helper/monster/51352"><img src="/empire/image/monster/5616.png" width="60" height="60" style="vertical-align: middle;"/></a> <span>土屬雷獸</span><br/>
 
-<a href="http://helper/npc/9989636"><img src="/empire/image/monster/0.png" width="1" height="1" style="vertical-align: middle;"/></a> <span>王教头</span><br/>
+<a href="http://helper/npc/9989636"><img src="/empire/image/monster/0.png" width="40" height="40" style="vertical-align: middle;"/></a> <span>王教头</span><br/>
 
 <a href="http://helper/task/54165"><img src="/empire/image/task/mark.png" width="30" height="30" style="vertical-align: middle;"/></a> <span>再找张大力</span><br/>
 
