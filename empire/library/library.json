@@ -2,37 +2,30 @@
     {
         "articles": [
             {
-                "url": "publish/create_article/index.html", 
-                "folder": "create_article", 
+                "url": "publish/create_article", 
                 "title": "教程书写规范"
             }, 
             {
-                "url": "publish/md_grammar_base/index.html", 
-                "folder": "md_grammar_base", 
-                "title": "Markdown基础用法"
+                "url": "publish/md_grammar_base", 
+                "title": "Markdown基础语法"
             }, 
             {
-                "url": "publish/md_grammar_plus/index.html", 
-                "folder": "md_grammar_plus", 
-                "title": "Markdown进阶用法"
+                "url": "publish/md_grammar_plus", 
+                "title": "Markdown进阶语法"
             }
         ], 
-        "folder": "publish", 
         "title": "投稿教程"
     }, 
     {
         "articles": [], 
-        "folder": "game", 
         "title": "游戏攻略"
     }, 
     {
         "articles": [], 
-        "folder": "instance", 
         "title": "副本攻略"
     }, 
     {
         "articles": [], 
-        "folder": "jobs", 
         "title": "职业玩法"
     }
 ]
