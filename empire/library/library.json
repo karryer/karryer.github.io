@@ -2,17 +2,14 @@
     {
         "articles": [
             {
-                "url": "publish/create_article/index.md", 
                 "folder": "create_article", 
                 "title": "教程书写规范"
             }, 
             {
-                "url": "publish/md_grammar_base/index.md", 
                 "folder": "md_grammar_base", 
                 "title": "Markdown基础用法"
             }, 
             {
-                "url": "publish/md_grammar_plus/index.md", 
                 "folder": "md_grammar_plus", 
                 "title": "Markdown进阶用法"
             }
