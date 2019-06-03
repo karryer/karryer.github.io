@@ -1,5 +1,4 @@
-[title:教程书写规范]
-[author:小螃蟹]
+> 作者：小螃蟹
 
 <a href="http://helper/item/62596"><img src="/empire/image/item/127_4.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>紫雲襯肩</span><br/>
 
