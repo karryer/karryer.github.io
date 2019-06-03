@@ -9,12 +9,12 @@
             {
                 "url": "publish/md_grammar_base", 
                 "author": "小螃蟹", 
-                "title": "教程书写规范"
+                "title": "Markdown基础语法"
             }, 
             {
                 "url": "publish/md_grammar_plus", 
                 "author": "小螃蟹", 
-                "title": "教程书写规范"
+                "title": "Markdown进阶语法"
             }
         ], 
         "title": "投稿教程"

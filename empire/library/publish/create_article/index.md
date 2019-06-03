@@ -1,20 +1,27 @@
 > 作者：小螃蟹
 
-<a href="http://helper/item/62596"><img src="/empire/image/item/127_4.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>紫雲襯肩</span><br/>
+攻略需要使用Markdown语法来书写，诚如阁下所见，这篇教程就是使用Markdown语法写的。
 
-<a href="http://helper/skill/53345"><img src="/empire/image/skill/74_3.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>暴躁天性(15级)</span><br/>
+那么什么是Markdown呢？Markdown是一种纯文本格式的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。
 
-<a href="http://helper/monster/49183"><img src="/empire/image/monster/5001.png" width="50" height="50" style="vertical-align: text-bottom;" /></a> <span>野豬人</span><br/>
+下面就让我们按步骤来编写攻略吧：
 
-<a href="http://helper/monster/51341"><img src="/empire/image/monster/5166.png" width="80" height="80" style="vertical-align: text-bottom;" /></a> <span>寒冰龍（分身）</span><br/>
+首先在电脑创建一个文件夹，文件夹里新建一个名为`index.md`的文件，如果你的攻略用到了图片，也可以将图片放到这个文件夹里。
 
-<a href="http://helper/monster/51352"><img src="/empire/image/monster/5616.png" width="60" height="60" style="vertical-align: text-bottom;" /></a> <span>土屬雷獸</span><br/>
+打开`index.md`文件，前两行输入：
+```
+> 作者：作者名字
+```
 
-<a href="http://helper/npc/9989636"><img src="/empire/image/monster/0.png" width="50" height="50" style="vertical-align: text-bottom;" /></a> <span>王教头(11,16)</span><br/>
+例如，这篇教程输入的就是：
+```
+> 作者：小螃蟹
+```
 
-<a href="http://helper/task/54165"><img src="/empire/image/task/mark.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>再找张大力</span><br/>
+按这样的格式书写发布后，app的攻略列表里就能看到文章的标题了，攻略的开头也能看到作者的名字，效果如下所示：
+> 小螃蟹
 
+后面就可以编写你的攻略了。
 
-
-
+更多内容可以看Markdown语法的基础篇和进阶篇。
 
