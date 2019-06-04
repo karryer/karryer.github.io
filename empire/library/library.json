@@ -15,6 +15,11 @@
                 "url": "publish/md_grammar_plus", 
                 "author": "小螃蟹", 
                 "title": "Markdown进阶语法"
+            }, 
+            {
+                "url": "publish/publish", 
+                "author": "小螃蟹", 
+                "title": "投稿方式"
             }
         ], 
         "title": "投稿教程"
