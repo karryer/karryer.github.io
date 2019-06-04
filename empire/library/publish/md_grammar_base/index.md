@@ -1,20 +1,61 @@
 > 作者：小螃蟹
 
-<a href="http://helper/item/62596"><img src="/empire/image/item/127_4.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>紫雲襯肩</span><br/>
+如果想预览Markdown基础语法的效果的话，可以下载支持Markdown语法的编辑器，也可以使用Chrome的`Markdown viewer`插件。
 
-<a href="http://helper/skill/53345"><img src="/empire/image/skill/74_3.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>暴躁天性(15级)</span><br/>
+下面是Markdown一些常用的语法：
 
-<a href="http://helper/monster/49183"><img src="/empire/image/monster/5001.png" width="50" height="50" style="vertical-align: text-bottom;" /></a> <span>野豬人</span><br/>
+### 一、标题
 
-<a href="http://helper/monster/51341"><img src="/empire/image/monster/5166.png" width="80" height="80" style="vertical-align: text-bottom;" /></a> <span>寒冰龍（分身）</span><br/>
+在想要设置为标题的文字前面加`#`来表示。
+`#`是一级标题，`##`是二级标题，以此类推，最多支持六级标题。
 
-<a href="http://helper/monster/51352"><img src="/empire/image/monster/5616.png" width="60" height="60" style="vertical-align: text-bottom;" /></a> <span>土屬雷獸</span><br/>
+示例：
+```
+# 这是一级标题
+## 这是二级标题
+### 这是三级标题
+#### 这是四级标题
+##### 这是五级标题
+###### 这是六级标题
+```
 
-<a href="http://helper/npc/9989636"><img src="/empire/image/monster/0.png" width="50" height="50" style="vertical-align: text-bottom;" /></a> <span>王教头(11,16)</span><br/>
+效果如下：
+# 这是一级标题
+## 这是二级标题
+### 这是三级标题
+#### 这是四级标题
+##### 这是五级标题
+###### 这是六级标题
 
-<a href="http://helper/task/54165"><img src="/empire/image/task/mark.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>再找张大力</span><br/>
+------
+
+### 二、字体
+* 斜体：文字左右用`*`包起来。
+* 加粗：文字左右用`**`包起来。
+* 斜体加粗：文字左右用`***`包起来。
+* 删除线：文字左右用`~~`包起来。
 
 
+示例：
+```
+**这是加粗的文字**
+*这是倾斜的文字*
+***这是斜体加粗的文字***
+~~这是加删除线的文字~~
+```
+
+效果如下：  
+**这是加粗的文字**  
+*这是倾斜的文字*  
+***这是斜体加粗的文字***  
+~~这是加删除线的文字~~
 
 
-
+------
+------
+------
+------
+------
+------
+------
+------
