@@ -1,20 +1,66 @@
 > 作者：小螃蟹
 
-<a href="http://helper/item/62596"><img src="/empire/image/item/127_4.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>紫雲襯肩</span><br/>
+### 一、插入物品
+在物品列表长按物品图标3秒以上，会弹出插入该物品的代码。
 
-<a href="http://helper/skill/53345"><img src="/empire/image/skill/74_3.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>暴躁天性(15级)</span><br/>
+示例：
+```
+[item:33166]  
+```
 
-<a href="http://helper/monster/49183"><img src="/empire/image/monster/5001.png" width="50" height="50" style="vertical-align: text-bottom;" /></a> <span>野豬人</span><br/>
+效果如下：
+<a href="http://helper/item/33166"><img src="/empire/image/item/52_1.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>海蛇王短劍</span><br/>
 
-<a href="http://helper/monster/51341"><img src="/empire/image/monster/5166.png" width="80" height="80" style="vertical-align: text-bottom;" /></a> <span>寒冰龍（分身）</span><br/>
+------
 
-<a href="http://helper/monster/51352"><img src="/empire/image/monster/5616.png" width="60" height="60" style="vertical-align: text-bottom;" /></a> <span>土屬雷獸</span><br/>
+### 二、插入技能
+在技能列表长按技能图标3秒以上，会弹出插入该技能的代码。
 
-<a href="http://helper/npc/9989636"><img src="/empire/image/monster/0.png" width="50" height="50" style="vertical-align: text-bottom;" /></a> <span>王教头(11,16)</span><br/>
+示例：
+```
+<a href="http://helper/skill/61131"><img src="/empire/image/skill/66_2.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>9倍界王拳(9级)</span><br/>
+```
 
-<a href="http://helper/task/54165"><img src="/empire/image/task/mark.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>再找张大力</span><br/>
+效果如下：
+<a href="http://helper/skill/61131"><img src="/empire/image/skill/66_2.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>9倍界王拳(9级)</span><br/>
 
+------
 
+### 三、插入怪物
+在怪物详情界面长按怪物图标3秒以上，会弹出插入该怪物的代码。
 
+示例：
+```
+<a href="http://helper/monster/50933"><img src="/empire/image/monster/5111.png" width="53" height="53" style="vertical-align: text-bottom;" /></a> <span>死神</span><br/>
+```
+
+效果如下：
+<a href="http://helper/monster/50933"><img src="/empire/image/monster/5111.png" width="53" height="53" style="vertical-align: text-bottom;" /></a> <span>死神</span><br/>
+
+------
+
+### 四、插入NPC
+在NPC详情界面长按NPC图标3秒以上，会弹出插入该NPC的代码。
+
+示例：
+```
+<a href="http://helper/npc/20327159"><img src="/empire/image/monster/8210.png" width="50" height="50" style="vertical-align: text-bottom;" /></a> <span>蕾娜斯·瓦尔基里[阿尔托利亚深层遗迹(8,32)]</span><br/>
+```
+
+效果如下：
+<a href="http://helper/npc/20327159"><img src="/empire/image/monster/8210.png" width="50" height="50" style="vertical-align: text-bottom;" /></a> <span>蕾娜斯·瓦尔基里[阿尔托利亚深层遗迹(8,32)]</span><br/>
+
+------
+
+### 五、插入任务
+在NPC详情界面长按任务图标3秒以上，会弹出插入该任务的代码。
+
+示例：
+```
+<a href="http://helper/task/54964"><img src="/empire/image/task/mark.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>隐藏的卷轴</span><br/>
+```
+
+效果如下：
+<a href="http://helper/task/54964"><img src="/empire/image/task/mark.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>隐藏的卷轴</span><br/>
 
 
