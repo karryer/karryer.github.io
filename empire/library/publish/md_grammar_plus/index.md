@@ -10,7 +10,7 @@
 [item:35261]  
 ```
 
-效果如下：  
+效果如下(点击图标显示物品详情)：  
 <a href="http://helper/item/35261"><img src="/empire/image/item/61_4.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>斬龍劍</span><br/>
 
 ------
@@ -23,7 +23,7 @@
 [skill:61182]  
 ```
 
-效果如下：  
+效果如下(点击图标显示技能详情)：  
 <a href="http://helper/skill/61182"><img src="/empire/image/skill/66_4.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>20倍界王拳(20级)</span><br/>
 
 ------
@@ -36,7 +36,7 @@
 [monster:50933]  
 ```
 
-效果如下：  
+效果如下(点击图标跳到怪物详情)：  
 <a href="http://helper/monster/50933"><img src="/empire/image/monster/5111.png" width="53" height="53" style="vertical-align: text-bottom;" /></a> <span>死神</span><br/>
 
 ------
@@ -49,7 +49,7 @@
 [npc:20327159]  
 ```
 
-效果如下：  
+效果如下(点击图标显示NPC详情)：  
 <a href="http://helper/npc/20327159"><img src="/empire/image/monster/8210.png" width="50" height="50" style="vertical-align: text-bottom;" /></a> <span>蕾娜斯·瓦尔基里(8,32)</span><br/>
 
 ------
@@ -62,7 +62,7 @@
 [task:54964]  
 ```
 
-效果如下：  
+效果如下(点击图标显示任务详情)：  
 <a href="http://helper/task/54964"><img src="/empire/image/task/mark.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>隐藏的卷轴</span><br/>
 
 
