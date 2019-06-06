@@ -1,7 +1,5 @@
 > 作者：帅涛
 
-------
-
 <a href="http://helper/npc/20327159"><img src="/empire/image/monster/8210.png" width="50" height="50" style="vertical-align: text-bottom;" /></a> <span>蕾娜斯·瓦尔基里(8,32)</span><br/>
 
 点击蕾娜丝女神接取第一个任务
@@ -86,11 +84,11 @@
 
 接取最终任务
 
-[task:54967] 
+<a href="http://helper/task/54967"><img src="/empire/image/task/mark.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>不死者的降临</span><br/>
 
 击杀
 
-[monster:49242] 
+<a href="http://helper/monster/49242"><img src="/empire/image/monster/5055.png" width="50" height="50" style="vertical-align: text-bottom;" /></a> <span>薩麥爾王子（精英）</span><br/>
 
 （25.8） 完成任务后获得
 
