@@ -6,7 +6,7 @@
 点击蕾娜丝女神接取第一个任务
 
 
-<a href="http://helper/task/54921"><img src="/empire/image/task/mark.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>清理野猪洞</span><br/>
+<a href="http://helper/task/54921"><img src="/empire/image/task/task.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>清理野猪洞</span><br/>
 
 直接击杀20次野猪药师
 
@@ -25,7 +25,7 @@
 东方僵尸造型的怪物打一次获得不死气息的卷轴完成第一个任务就能接
 
 
-<a href="http://helper/task/54964"><img src="/empire/image/task/mark.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>隐藏的卷轴</span><br/>
+<a href="http://helper/task/54964"><img src="/empire/image/task/task.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>隐藏的卷轴</span><br/>
 
 点蕾娜丝女神战斗杀死
 
@@ -47,7 +47,7 @@
 接第一个任务
 
 
-<a href="http://helper/task/54923"><img src="/empire/image/task/mark.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>奄奄一息的队长</span><br/>
+<a href="http://helper/task/54923"><img src="/empire/image/task/task.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>奄奄一息的队长</span><br/>
 
 返回蕾娜丝女神那里接任务杀一次野猪药师
 
@@ -61,7 +61,7 @@
 完成前面一个任务才能接
 
 
-<a href="http://helper/task/54920"><img src="/empire/image/task/mark.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>破坏符咒</span><br/>
+<a href="http://helper/task/54920"><img src="/empire/image/task/task.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>破坏符咒</span><br/>
 
 找三个不死法师杀
 
@@ -101,7 +101,7 @@
 接取最终任务
 
 
-<a href="http://helper/task/54967"><img src="/empire/image/task/mark.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>不死者的降临</span><br/>
+<a href="http://helper/task/54967"><img src="/empire/image/task/task.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>不死者的降临</span><br/>
 
 击杀
 
