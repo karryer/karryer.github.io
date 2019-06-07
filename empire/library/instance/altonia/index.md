@@ -114,7 +114,7 @@
 <a href="http://helper/item/29181"><img src="/empire/image/item/198_4.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>阿爾托利亞遺跡副本獎勵</span><br/>
 
 
-<a href="http://helper/item/29179"><img src="/empire/image/item/198_4.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>MJ副本獎勵</span><br/>
+<a href="http://helper/item/1190"><img src="/empire/image/item/196_3.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>【阿爾托利亞山嶽遺跡】怪物卡片包</span><br/>
 
 本副本怪物卡包可以开出
 
