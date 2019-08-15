@@ -43,8 +43,8 @@
         repo: 'karryer.github.io',  //您刚才建立仓库的名字
         owner: 'karryer',   //你的GitHub用户名字
         admin: ['karryer'],  //你的GitHub用户的名字
-        id: 'location.pathname', //id不能重复，如果重复就会把其他页面的评论引进来
-        distractionFreeMode: false,
+        id: location.pathname, //id不能重复，如果重复就会把其他页面的评论引进来
+        distractionFreeMode: true,
     });
     gitalk.render('gitalk-container');
 </script>
