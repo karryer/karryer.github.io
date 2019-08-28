@@ -35,5 +35,5 @@
 <div id="gitalk-container"></div>
 <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
 <script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script> 
-<script src="/empire/library.js">setTitle("文章书写规范")</script> 
+<script src="/empire/js/library.js">setTitle("文章书写规范")</script> 
         
