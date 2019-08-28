@@ -30,25 +30,6 @@
 基础篇介绍了一些常用的语法，5分钟就可以入门了。  
 进阶篇介绍了插入物品、技能、怪物、NPC、任务等的方法。
 
-<script type="text/javascript">
-    //hide h1
-    var h1 = document.getElementsByTagName('h1')[0];
-    if (h1 != null) {
-        h1.parentNode.removeChild(h1);
-    }
-
-    //set title
-    function setTitle(title) {
-        var titleElement = document.getElementsByTagName('title')[0];
-        if (titleElement != null) {
-            titleElement.text = title;
-        }
-    }
-</script>
-
-<script type="text/javascript">
-    setTitle("jkj");
-</script>
 
 <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
 <script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script> 
@@ -68,3 +49,22 @@
     gitalk.render('gitalk-container');
 </script>
 
+<script type="text/javascript">
+    //hide h1
+    var h1 = document.getElementsByTagName('h1')[0];
+    if (h1 != null) {
+        h1.parentNode.removeChild(h1);
+    }
+
+    //set title
+    function setTitle(title) {
+        var titleElement = document.getElementsByTagName('title')[0];
+        if (titleElement != null) {
+            titleElement.text = title;
+        }
+    }
+</script>
+
+<script type="text/javascript">
+    setTitle("文章书写规范");
+</script>
