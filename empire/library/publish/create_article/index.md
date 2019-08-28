@@ -31,20 +31,30 @@
 进阶篇介绍了插入物品、技能、怪物、NPC、任务等的方法。
 
 <script type="text/javascript">
-    function hideMdTitle() {
-        var h1 = document.getElementsByTagName('h1')[0];
-        if (h1 != null) {
-            h1.parentNode.removeChild(h1);
-        }
-    };
-    hideMdTitle();
+    //hide h1
+    var h1 = document.getElementsByTagName('h1')[0];
+    if (h1 != null) {
+        h1.parentNode.removeChild(h1);
+    }
+
+    //fix title
+    var title = document.getElementsByTagName('title')[0];
+    if (title != null) {
+        title.text = "文章书写规范";
+    }
+
+    //can not click
+    var usernames = document.getElementsByClassName("gt-comment-username");
+    for (var i = 0; i < usernames.length; i++) { 
+        usernames[i].href="javacript:void(0);"
+    }
 </script>
 
 
 <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
 <script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script> 
 
-<div id="gitalk-container"></div>     
+<div id="gitalk-container"></div>
 <script type="text/javascript">
     var gitalk = new Gitalk({
         // gitalk的主要参数
