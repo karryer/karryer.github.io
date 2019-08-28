@@ -74,4 +74,4 @@
 
 ------
 
-<a href="http://helper/becoling/<<Lz0uOIYnNyk=>>"><img src="/empire/image/monster/0.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>复仇奶</span><br/>
+<a href="http://helper/becoling/<<Lz0uOIYnNyk=>>"><img src="/empire/image/monster/0.png" width="50" height="50" style="vertical-align: middle;" /></a> <span>复仇奶</span><br/>
