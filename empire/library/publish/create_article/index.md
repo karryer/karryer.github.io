@@ -1,5 +1,5 @@
 > 作者：小螃蟹
->> 2019-07-21
+>> 更新时间：2019-07-21
 
 攻略文章需要使用Markdown语法来书写，诚如阁下所见，这篇教程就是使用Markdown语法写的。
 
@@ -32,40 +32,8 @@
 进阶篇介绍了插入物品、技能、怪物、NPC、任务等的方法。
 
 
+<div id="gitalk-container"></div>
 <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
 <script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script> 
-
-<div id="gitalk-container"></div>
-<script type="text/javascript">
-    var gitalk = new Gitalk({
-        // gitalk的主要参数
-        clientID: '7aa5f973fdce362ce388',   //上面获取到的值
-        clientSecret: '55f8d6962f040539dca3ca97c4a7c0341df997e7',//上面获取到的值
-        repo: 'karryer.github.io',  //您刚才建立仓库的名字
-        owner: 'karryer',   //你的GitHub用户名字
-        admin: ['karryer'],  //你的GitHub用户的名字
-        id: location.pathname, //id不能重复，如果重复就会把其他页面的评论引进来
-        distractionFreeMode: true,
-    });
-    gitalk.render('gitalk-container');
-</script>
-
-<script type="text/javascript">
-    // Hide h1
-    var h1 = document.getElementsByTagName('h1')[0];
-    if (h1 != null) {
-        h1.parentNode.removeChild(h1);
-    }
-
-    // Set title
-    function setTitle(title) {
-        var titleElement = document.getElementsByTagName('title')[0];
-        if (titleElement != null) {
-            titleElement.text = title;
-        }
-    }
-</script>
-
-<script type="text/javascript">
-    setTitle("文章书写规范");
-</script>
+<script src="empire/library.js">setTitle("文章书写规范")</script> 
+        
