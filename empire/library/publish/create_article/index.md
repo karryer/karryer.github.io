@@ -37,19 +37,18 @@
         h1.parentNode.removeChild(h1);
     }
 
-    //fix title
-    var title = document.getElementsByTagName('title')[0];
-    if (title != null) {
-        title.text = "文章书写规范";
-    }
-
-    //can not click
-    var usernames = document.getElementsByClassName("gt-comment-username");
-    for (var i = 0; i < usernames.length; i++) { 
-        usernames[i].href="javacript:void(0);"
+    //set title
+    function setTitle(title) {
+        var titleElement = document.getElementsByTagName('title')[0];
+        if (titleElement != null) {
+            titleElement.text = title;
+        }
     }
 </script>
 
+<script type="text/javascript">
+    setTitle("jkj");
+</script>
 
 <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
 <script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script> 
