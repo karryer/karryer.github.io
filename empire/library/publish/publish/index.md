@@ -1,4 +1,5 @@
 > 作者：小螃蟹
+>> 更新时间：2019-07-21
 
 请将文章所在的文件夹压缩为`zip`压缩包，尽量不要使用`rar`格式。
 
@@ -7,29 +8,9 @@
 * 将压缩包发给QQ`1341927894`。
 
 
-<!--<head>-->
-  <link rel="stylesheet" href="https://unpkg.com/vssue/dist/vssue.min.css">
-<!--</head>-->
-
-<!--<body>-->
-  <div id="vssue"></div>
-  <script src="https://unpkg.com/vue/dist/vue.runtime.min.js"></script>
-  <script src="https://unpkg.com/vssue/dist/vssue.github.min.js"></script>
-  <script>
-    new Vue({
-      el: '#vssue',
-      render: h => h('Vssue', {
-        props: {
-          title: 'Vssue Dev',
-          options: {
-            owner: 'karryer',
-            repo: 'karryer.github.io',
-            clientId: '7aa5f973fdce362ce388',
-            clientSecret: '55f8d6962f040539dca3ca97c4a7c0341df997e7',
-          },
-        }
-      })
-    })
-  </script>
-<!--</body>-->
-
+<div id="gitalk-container"></div>
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script> 
+<script src="/empire/js/library.js"></script> 
+<script type="text/javascript">setTitle("投稿方式");</script>
+        
