@@ -1,5 +1,5 @@
 > 作者：帅涛
->> 更新时间：2019-09-27
+>> 更新时间：2020-01-04
 
 #### 一、打怪升级
 
@@ -30,7 +30,7 @@
 
 
 <a href="http://helper/player/LSwyO4IyeWs-s+xd5fNaOgSGD2uUsXENEnOfeCx9JAggbbQNjC0mQWpMyrwU5roVvcu+K3Kyr+RRwuaugdx6mkzwOwoTtAx2HRp2uml1hUikHeQQOO9AeIiDccqsvze4hnNETESJsXPGEgQmcPvrzz3LYTsVTxkFD0QTgMTwIC6HrXOOcAlSn-E8XskUIX2xY0XAY-yvGDt6sGaQBdq2f-BeJ3n7iNHMWMZ88buOOljaQchgXLBiz8RBDXGKrI3GFjutrfKz2ZCbvUoDfvWjZKG4NeeWdQGvBctWNUn9cGCL9ztLstgJFbF3kCEGyhF4yk96Rk3VdeELxWYVnJJA4IAddBAZaSKBTRVie7FoSW1sBrhFNdAnsa0VtMLrndT6KZrMLOhqDGQGj7nhC2+gdoqJZjO5ocUM-eO2m4DxnHz19aOOl6rZ7DwSTk8QWK34bkZeg+WKsF9w5bFGbhEyfUeygCrsVVF4eZLJIxARQNHsEO4eHgMvfV1bpT5bedK8kWEegijSutOAi+HRZBPkai7L33JO2x9keipwJTLkQ1WBHWVHUcdymBiVQBTx1CPLLxvgFKSSCV9yh2GnbQHM-N2KoyamfwWfW-KX3X3V2KnVzDTT8mSD1CBsP90jcEK4Qqjfui7Zai4zrffgv6y+vtKbwEdXcKwqZthwIWa9V5yvTPxvbdIxSbTmGhv+7PGr4xY-xbbRsIAnjhsVujHIptpX1g55p7ry+GFAZJwQFeohGo8uTMkksfiuU+Hr0+7rSdwJFJfSee52mvf7t+j3nNEV7rc="><img src="/empire/image/player/0551a468.png" width="50" height="50" style="vertical-align: text-bottom;" /></a> <span>新手练级</span><br/>
-↑点击查看练级技能装备配置↑
+↑点击图标查看练级技能装备配置↑
 
 这些平常技能所就能学到，如果觉得伤害还不够，可以附魔一个一级拳法之魂。这个比较便宜，二三十金就能买到：
 
@@ -64,5 +64,5 @@
 <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
 <script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script> 
 <script src="/empire/js/library.js"></script> 
-<script type="text/javascript">setTitle("帝国OL练级篇");</script>
+<script type="text/javascript">setTitle("帝国OL升级攻略");</script>
         
