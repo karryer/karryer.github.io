@@ -125,7 +125,7 @@
                 "url": "instance/vanguard_a/", 
                 "id": "2a6c927d", 
                 "author": "大象无形", 
-                "time": 0, 
+                "time": 1599916842000, 
                 "title": "副本攻略系列 - 魔龙之血A"
             }
         ], 
@@ -161,5 +161,22 @@
             }
         ], 
         "title": "职业玩法"
+    }, 
+    {
+        "articles": [
+            {
+                "articles": [
+                    {
+                        "url": "story/rebirth/0000/", 
+                        "id": "f679470b", 
+                        "author": "小螃蟹", 
+                        "time": 0, 
+                        "title": "简介"
+                    }
+                ], 
+                "title": "《重生之帝国OL》"
+            }
+        ], 
+        "title": "游戏小说"
     }
 ]
