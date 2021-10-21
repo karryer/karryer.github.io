@@ -6,6 +6,6 @@
 <iframe src="//player.bilibili.com/player.html?aid=97434514&bvid=BV1Q7411R7H6&cid=167003529&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 <script language="javascript" type="text/javascript">
-window.location.href="https://www.bilibili.com/video/BV1Q7411R7H6";
+window.location.href="https://m.bilibili.com/video/BV1Q7411R7H6";
 </script>
             
